@@ -8,13 +8,14 @@ My DSA practice for placement prep — solving from GeeksforGeeks, LeetCode, and
 |---|---|
 | Arrays | 3 |
 | Recursion | 1 |
-| Strings | 0 |
+| Strings | 3 |
 | Binary Search | 0 |
-| Hashing | 0 |
-| Linked Lists | 0 |
+| Hashing | 3 |
+| Linked Lists | 1 |
 | Trees | 0 |
 | Graphs | 0 |
-| Dynamic Programming | 0 |
+| Dynamic Programming | 3 |
+| Math | 1 |
 
 ## Structure
 
